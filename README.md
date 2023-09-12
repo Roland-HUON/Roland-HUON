@@ -1,4 +1,4 @@
-# ***<p style="text-align: center;"> **Salut, je m'appelle Roland HUON.** </p>***
+# <center> **Salut, je m'appelle Roland HUON.** </center>
 
 ## Commençons par faire plus amples connaissances 👋
 
@@ -7,10 +7,11 @@ Je suis actuellement un étudiant A2 CDI à l'IIM. Pour le moment, j'ai pour amb
 Ma citation préférée :
 > Tant que ton coeur est pur et que tes raisons sont bonnes,
 > tu n'as aucune raison d'échouer ! 
-##### ***<p style="text-align: right;"> *- Roland HUON.* </p>***
+
+##### <right> *- Roland HUON.* </right>
 
 
-## Ma sélections de jeux recommandés
+## Ma sélections de jeux recommandés 🎮
 
 1. Pour PC
 - Age of Mythology
@@ -23,18 +24,26 @@ Ma citation préférée :
 - DB Legends
 
 ## Et côté compétences ?📚🤔
+
+### Soft skills
 <center>
 
-| Hard skills | Soft skills |
-| :--- | :--- |
-| HTML | Gestion du temps |
-| CSS | Empathie |
-| PHP | Intelligence émotionnelle |
-| PYTHON | Adaptabilité |
-| ANGULAR | Leadership |
-| REACT | Prise de décision |
+| Soft skills |
+| :--- |
+| Gestion du temps |
+| Empathie |
+| Intelligence émotionnelle |
+| Adaptabilité |
+| Leadership |
+| Prise de décision |
 
 </center>
+
+### Languages de programmation 📖
+
+### Logiciels
+
+### Frameworks CSS
 
 ## Mes projets
 
@@ -42,7 +51,7 @@ Ma citation préférée :
 
 ## Pour me contacter
 
-Vous pouvez me contacter par téléphone 📞 au : [0779479151](tel:0779479151)  
+Vous pouvez me contacter par téléphone au : 📞[07.79.47.91.51](tel:0779479151)  
 
 **Ou via**  
 
