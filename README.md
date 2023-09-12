@@ -1,4 +1,4 @@
-# <center> **Salut, je m'appelle Roland HUON.** </center>
+# <p align="center"> **Salut, je m'appelle Roland HUON.** </p>
 
 ## Commençons par faire plus amples connaissances 👋
 
@@ -8,7 +8,7 @@ Ma citation préférée :
 > Tant que ton coeur est pur et que tes raisons sont bonnes,
 > tu n'as aucune raison d'échouer ! 
 
-##### <right> *- Roland HUON.* </right>
+##### <left> *- Roland HUON.* </left>
 
 
 ## Ma sélections de jeux recommandés 🎮
