@@ -86,7 +86,7 @@ Ma citation préférée :
 
 Vers mon portfolio : [cliquez-ici](https://roland-huon.github.io/portfolio-Roland-HUON/)
 
-Mon dernier projet : [cliquez-ici]()
+Mon dernier projet : [cliquez-ici](https://roland-huon.github.io/Piano-titles-js/)
 
 ## Pour me contacter
 
