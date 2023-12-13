@@ -84,9 +84,9 @@ Ma citation préférée :
 
 ***<p style="text-align: center;"> Vous pouvez retrouver la plupart de mes projets sur mon github. Je vous laisse voir par vous même la plupart de mes créations. </p>***
 
-Vers mon portfolio : [cliquez-ici](https://roland-huon.github.io/portfolio-Roland-HUON/)
+Vers mon portfolio : [cliquez-ici]()
 
-Mon dernier projet : [cliquez-ici](https://roland-huon.github.io/Piano-titles-js/)
+Mon dernier projet : [cliquez-ici](https://github.com/Roland-HUON/pokedex-angular)
 
 ## Pour me contacter
 
