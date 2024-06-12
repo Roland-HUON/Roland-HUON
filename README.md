@@ -19,10 +19,6 @@
 
 Je suis actuellement un étudiant A2 CDI à l'IIM. Pour le moment, j'ai pour ambition de devenir un développeur fullstack (qui sait ce que l'avenir me réserve👀). A côté du code, j'entretiens une vie des plus basiques où mes centres d'intérêts sont principalement les jeux vidéos.
 
-Ma citation préférée :
-> Tant que ton coeur est pur et que tes raisons sont bonnes,
-> tu n'as aucune raison d'échouer ! 
-
 ##### <p align="right"> *- Roland HUON.* </p>
 
 ## Et côté compétences ?📚🤔
@@ -53,7 +49,6 @@ Ma citation préférée :
 <p align="center">
 <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" width="100" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="100" height="100"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="" height="100">
 </p>
 
 <p align="center">
