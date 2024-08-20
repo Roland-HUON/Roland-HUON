@@ -7,4 +7,4 @@ Follow me to discover my development and progress.</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Roland-HUON&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=Roland-HUON)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Roland-HUON)](https://git.io/streak-stats)
