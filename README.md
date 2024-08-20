@@ -11,7 +11,7 @@ Follow me to discover my development and progress.</p>
   
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roland-HUON&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roland-HUON&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roland-HUON&show_icons=true&theme=tokyonight height="192px") [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roland-HUON&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats height="192px") 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Roland-HUON&theme=dark)](https://git.io/streak-stats)
 
