@@ -3,7 +3,7 @@
 <p>I am a 3rd year student in web development and I want to become a frontend / fullstack developer.
 Follow me to discover my development and progress.</p>
 
-<div align="center">
+<div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roland-HUON&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
