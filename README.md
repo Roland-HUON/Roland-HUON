@@ -5,8 +5,8 @@ Follow me to discover my development and progress.</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Roland-HUON&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img alt="Roland-HUON's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Roland-HUON&show_icons=true&theme=tokyonight" height="192px">
-<img alt="Roland-HUON's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Roland-HUON&show_icons=true&theme=tokyonight" height="192px">
+<img alt="Roland-HUON's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Roland-HUON&show_icons=true&theme=tokyonight&hide_border=true" height="192px">
+<img alt="Roland-HUON's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Roland-HUON&show_icons=true&theme=tokyonight&hide_border=true" height="192px">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Roland-HUON&theme=dark)](https://git.io/streak-stats)
 
