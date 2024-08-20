@@ -3,20 +3,10 @@
 <p>I am a 3rd year student in web development and I want to become a frontend / fullstack developer.
 Follow me to discover my development and progress.</p>
 
-<div align="center"> 
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Roland-HUON&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Roland-HUON&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div>
-  
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Roland-HUON&show_icons=true&theme=tokyonight" height="192px">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Roland-HUON&show_icons=true&theme=tokyonight" height="192px">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roland-HUON&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roland-HUON&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-  
-</div>
+<img alt="Roland-HUON's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Roland-HUON&show_icons=true&theme=tokyonight" height="192px">
+<img alt="Roland-HUON's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Roland-HUON&show_icons=true&theme=tokyonight" height="192px">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Roland-HUON&theme=dark)](https://git.io/streak-stats)
 
