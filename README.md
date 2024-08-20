@@ -9,6 +9,6 @@ Follow me to discover my development and progress.</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Roland-HUON&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roland-HUON&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=Roland-HUON)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roland-HUON&show_icons=true&theme=dark) [![GitHub Streak](https://streak-stats.demolab.com/?user=Roland-HUON)](https://git.io/streak-stats)
 
 </div>
