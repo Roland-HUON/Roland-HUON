@@ -1,0 +1,49 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="cardTitle">
+  <title id="cardTitle">GitHub card</title>
+  <desc>Total contributions 1948, current streak 2 days, longest streak 13 days.</desc>
+  <style><![CDATA[
+    .card-title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #70a5fd; }
+    .label { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #38bdae; }
+    .value { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #38bdae; }
+    .muted { font: 400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #8b93b8; }
+    .icon { fill: #bf91f3; }
+    /* Deliberately no animation anywhere in these cards. GitHub embeds them as
+       images, and an image-rendered SVG is painted at time zero with its
+       animations frozen — anything that animates into place stays invisible. */
+    
+      .streak-value { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+      .streak-label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+      .streak-label.accent { fill: #bf91f3; }
+      .streak-caption { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b93b8; }
+    
+  ]]></style>
+  <rect x="0" y="0" rx="12" width="495" height="195" fill="#1a1b27"/>
+  
+  
+  <g transform="translate(0, 12)">
+    <line x1="165" y1="20" x2="165" y2="150" stroke="#2f3146" stroke-width="1"/>
+    <line x1="330" y1="20" x2="330" y2="150" stroke="#2f3146" stroke-width="1"/>
+    <g>
+        
+        <text class="streak-value" x="82.5" y="62" text-anchor="middle">1,948</text>
+        <text class="streak-label " x="82.5" y="88" text-anchor="middle">Total Contributions</text>
+        <text class="streak-caption" x="82.5" y="106" text-anchor="middle">Sep 30, 2022 - Present</text>
+      </g>
+    <g>
+        <circle cx="247.5" cy="62" r="36" fill="none" stroke="#bf91f3" stroke-width="4"
+             stroke-dasharray="226.2" stroke-dashoffset="34"
+             transform="rotate(-100 247.5 62)"/>
+           <rect x="233.5" y="21" width="28" height="14" fill="#1a1b27"/>
+           <g transform="translate(238.5, 17) scale(1.1250)" fill="#bf91f3" color="#bf91f3"><path d="M8 .8s.9 2.5-.6 4.3C5.5 7.3 3 8.3 3 11a5 5 0 0 0 10 0c0-2.1-1.2-3.2-1.9-4.6-.5 1-1.2 1.4-1.2 1.4s.9-3.9-1.9-7z"/></g>
+        <text class="streak-value" x="247.5" y="70" text-anchor="middle">2</text>
+        <text class="streak-label accent" x="247.5" y="118" text-anchor="middle">Current Streak</text>
+        <text class="streak-caption" x="247.5" y="136" text-anchor="middle">Aug 6, 2026 - Aug 7, 2026</text>
+      </g>
+    <g>
+        
+        <text class="streak-value" x="412.5" y="62" text-anchor="middle">13</text>
+        <text class="streak-label " x="412.5" y="88" text-anchor="middle">Longest Streak</text>
+        <text class="streak-caption" x="412.5" y="106" text-anchor="middle">Jul 8, 2026 - Jul 20, 2026</text>
+      </g>
+  </g>
+</svg>

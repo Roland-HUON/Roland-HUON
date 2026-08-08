@@ -1,0 +1,19 @@
+<svg width="132" height="28" viewBox="0 0 132 28" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile views: 0">
+  <title>Profile views: 0</title>
+  <style><![CDATA[
+    .badge-label { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #38bdae; }
+    .badge-value { font: 700 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #1a1b27; }
+  ]]></style>
+  <defs>
+    <clipPath id="badgeClip"><rect width="132" height="28" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#badgeClip)">
+    <rect width="132" height="28" fill="#1a1b27"/>
+    <rect x="107" width="25" height="28" fill="#70a5fd"/>
+  </g>
+  <rect x="0.5" y="0.5" width="131" height="27" rx="13.5" fill="none" stroke="#2f3146"/>
+  <g transform="translate(9, 7) scale(0.8750)" fill="#70a5fd" color="#70a5fd"><path d="M.9 8S3.6 3 8 3s7.1 5 7.1 5-2.7 5-7.1 5S.9 8 .9 8z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
+    <circle cx="8" cy="8" r="2.3"/></g>
+  <text class="badge-label" x="29" y="14" dominant-baseline="central">Profile views</text>
+  <text class="badge-value" x="119.5" y="14" dominant-baseline="central" text-anchor="middle">0</text>
+</svg>
