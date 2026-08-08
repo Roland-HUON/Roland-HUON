@@ -1,6 +1,6 @@
 <svg width="350" height="192" viewBox="0 0 350 192" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="cardTitle">
   <title id="cardTitle">Most Used Languages</title>
-  <desc>HTML 45.7%, Jupyter Notebook 25.4%, JavaScript 20.1%, PHP 3.9%, CSS 2.3%, TypeScript 1.3%, Swift 1.0%, Vue 0.2%, Other 0.1%</desc>
+  <desc>Python 57.7%, PHP 27.6%, JavaScript 7.5%, CSS 3.3%, TypeScript 0.9%, C 0.6%, HTML 0.5%, Vue 0.4%, Other 1.3%</desc>
   <style><![CDATA[
     .card-title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #70a5fd; }
     .label { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #38bdae; }
@@ -21,52 +21,52 @@
     <g>
       <mask id="langMask"><rect x="0" y="0" width="300" height="8" rx="4" fill="#fff"/></mask>
       <g mask="url(#langMask)">
-      <rect x="0.00" y="0" width="137.05" height="8" fill="#e34c26"/>
-      <rect x="137.05" y="0" width="76.08" height="8" fill="#DA5B0B"/>
-      <rect x="213.13" y="0" width="60.38" height="8" fill="#f1e05a"/>
-      <rect x="273.51" y="0" width="11.73" height="8" fill="#4F5D95"/>
-      <rect x="285.24" y="0" width="6.77" height="8" fill="#563d7c"/>
-      <rect x="292.02" y="0" width="3.96" height="8" fill="#3178c6"/>
-      <rect x="295.97" y="0" width="2.93" height="8" fill="#F05138"/>
-      <rect x="298.90" y="0" width="0.73" height="8" fill="#41b883"/>
-      <rect x="299.63" y="0" width="0.50" height="8" fill="#858585"/>
+      <rect x="0.00" y="0" width="173.21" height="8" fill="#3572A5"/>
+      <rect x="173.21" y="0" width="82.89" height="8" fill="#4F5D95"/>
+      <rect x="256.10" y="0" width="22.59" height="8" fill="#f1e05a"/>
+      <rect x="278.69" y="0" width="10.01" height="8" fill="#563d7c"/>
+      <rect x="288.71" y="0" width="2.75" height="8" fill="#3178c6"/>
+      <rect x="291.45" y="0" width="1.94" height="8" fill="#555555"/>
+      <rect x="293.39" y="0" width="1.51" height="8" fill="#e34c26"/>
+      <rect x="294.90" y="0" width="1.24" height="8" fill="#41b883"/>
+      <rect x="296.14" y="0" width="3.86" height="8" fill="#858585"/>
       </g>
     </g>
     <g transform="translate(0.0, 30)">
-        <circle cx="5" cy="0" r="5" fill="#e34c26"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">HTML 45.68%</text>
+        <circle cx="5" cy="0" r="5" fill="#3572A5"/>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Python 57.74%</text>
       </g>
       <g transform="translate(150.0, 30)">
-        <circle cx="5" cy="0" r="5" fill="#DA5B0B"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Jupyter Notebook 25.36%</text>
+        <circle cx="5" cy="0" r="5" fill="#4F5D95"/>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">PHP 27.63%</text>
       </g>
       <g transform="translate(0.0, 50)">
         <circle cx="5" cy="0" r="5" fill="#f1e05a"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">JavaScript 20.13%</text>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">JavaScript 7.53%</text>
       </g>
       <g transform="translate(150.0, 50)">
-        <circle cx="5" cy="0" r="5" fill="#4F5D95"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">PHP 3.91%</text>
+        <circle cx="5" cy="0" r="5" fill="#563d7c"/>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">CSS 3.34%</text>
       </g>
       <g transform="translate(0.0, 70)">
-        <circle cx="5" cy="0" r="5" fill="#563d7c"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">CSS 2.26%</text>
+        <circle cx="5" cy="0" r="5" fill="#3178c6"/>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">TypeScript 0.92%</text>
       </g>
       <g transform="translate(150.0, 70)">
-        <circle cx="5" cy="0" r="5" fill="#3178c6"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">TypeScript 1.32%</text>
+        <circle cx="5" cy="0" r="5" fill="#555555"/>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">C 0.65%</text>
       </g>
       <g transform="translate(0.0, 90)">
-        <circle cx="5" cy="0" r="5" fill="#F05138"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Swift 0.98%</text>
+        <circle cx="5" cy="0" r="5" fill="#e34c26"/>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">HTML 0.50%</text>
       </g>
       <g transform="translate(150.0, 90)">
         <circle cx="5" cy="0" r="5" fill="#41b883"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Vue 0.24%</text>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Vue 0.41%</text>
       </g>
       <g transform="translate(0.0, 110)">
         <circle cx="5" cy="0" r="5" fill="#858585"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Other 0.12%</text>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Other 1.29%</text>
       </g>
   </g>
 </svg>
