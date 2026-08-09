@@ -1,5 +1,5 @@
-<svg width="142" height="28" viewBox="0 0 142 28" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Unique visitors: 0">
-  <title>Unique visitors: 0</title>
+<svg width="142" height="28" viewBox="0 0 142 28" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Unique visitors: 1">
+  <title>Unique visitors: 1</title>
   <style><![CDATA[
     .badge-label { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #38bdae; }
     .badge-value { font: 700 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #1a1b27; }
@@ -16,5 +16,5 @@
     <path d="M1.2 14.4c0-2.9 2.1-4.6 4.8-4.6s4.8 1.7 4.8 4.6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
     <path d="M11.4 3.2a2.7 2.7 0 0 1 0 5.2M12.2 10.2c1.7.4 2.8 1.9 2.8 4.2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></g>
   <text class="badge-label" x="29" y="14" dominant-baseline="central">Unique visitors</text>
-  <text class="badge-value" x="129.5" y="14" dominant-baseline="central" text-anchor="middle">0</text>
+  <text class="badge-value" x="129.5" y="14" dominant-baseline="central" text-anchor="middle">1</text>
 </svg>
