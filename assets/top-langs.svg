@@ -21,11 +21,11 @@
     <g>
       <mask id="langMask"><rect x="0" y="0" width="300" height="8" rx="4" fill="#fff"/></mask>
       <g mask="url(#langMask)">
-      <rect x="0.00" y="0" width="173.21" height="8" fill="#3572A5"/>
-      <rect x="173.21" y="0" width="82.89" height="8" fill="#4F5D95"/>
-      <rect x="256.10" y="0" width="22.59" height="8" fill="#f1e05a"/>
-      <rect x="278.69" y="0" width="10.01" height="8" fill="#563d7c"/>
-      <rect x="288.71" y="0" width="2.75" height="8" fill="#3178c6"/>
+      <rect x="0.00" y="0" width="173.20" height="8" fill="#3572A5"/>
+      <rect x="173.20" y="0" width="82.89" height="8" fill="#4F5D95"/>
+      <rect x="256.08" y="0" width="22.59" height="8" fill="#f1e05a"/>
+      <rect x="278.68" y="0" width="10.01" height="8" fill="#563d7c"/>
+      <rect x="288.69" y="0" width="2.76" height="8" fill="#3178c6"/>
       <rect x="291.45" y="0" width="1.94" height="8" fill="#555555"/>
       <rect x="293.39" y="0" width="1.51" height="8" fill="#e34c26"/>
       <rect x="294.90" y="0" width="1.24" height="8" fill="#41b883"/>
@@ -34,7 +34,7 @@
     </g>
     <g transform="translate(0.0, 30)">
         <circle cx="5" cy="0" r="5" fill="#3572A5"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Python 57.74%</text>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Python 57.73%</text>
       </g>
       <g transform="translate(150.0, 30)">
         <circle cx="5" cy="0" r="5" fill="#4F5D95"/>
