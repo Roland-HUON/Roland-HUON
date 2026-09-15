@@ -21,15 +21,15 @@
     <g>
       <mask id="langMask"><rect x="0" y="0" width="300" height="8" rx="4" fill="#fff"/></mask>
       <g mask="url(#langMask)">
-      <rect x="0.00" y="0" width="172.51" height="8" fill="#3572A5"/>
-      <rect x="172.51" y="0" width="82.56" height="8" fill="#4F5D95"/>
-      <rect x="255.07" y="0" width="22.54" height="8" fill="#f1e05a"/>
-      <rect x="277.62" y="0" width="10.07" height="8" fill="#563d7c"/>
-      <rect x="287.69" y="0" width="3.80" height="8" fill="#3178c6"/>
-      <rect x="291.49" y="0" width="1.93" height="8" fill="#555555"/>
-      <rect x="293.42" y="0" width="1.50" height="8" fill="#e34c26"/>
-      <rect x="294.92" y="0" width="1.23" height="8" fill="#41b883"/>
-      <rect x="296.16" y="0" width="3.84" height="8" fill="#858585"/>
+      <rect x="0.00" y="0" width="172.50" height="8" fill="#3572A5"/>
+      <rect x="172.50" y="0" width="82.55" height="8" fill="#4F5D95"/>
+      <rect x="255.06" y="0" width="22.54" height="8" fill="#f1e05a"/>
+      <rect x="277.60" y="0" width="10.07" height="8" fill="#563d7c"/>
+      <rect x="287.67" y="0" width="3.80" height="8" fill="#3178c6"/>
+      <rect x="291.47" y="0" width="1.93" height="8" fill="#555555"/>
+      <rect x="293.40" y="0" width="1.50" height="8" fill="#e34c26"/>
+      <rect x="294.91" y="0" width="1.23" height="8" fill="#41b883"/>
+      <rect x="296.14" y="0" width="3.86" height="8" fill="#858585"/>
       </g>
     </g>
     <g transform="translate(0.0, 30)">
@@ -66,7 +66,7 @@
       </g>
       <g transform="translate(0.0, 110)">
         <circle cx="5" cy="0" r="5" fill="#858585"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Other 1.28%</text>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Other 1.29%</text>
       </g>
   </g>
 </svg>
