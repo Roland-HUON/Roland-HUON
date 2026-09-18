@@ -21,24 +21,24 @@
     <g>
       <mask id="langMask"><rect x="0" y="0" width="300" height="8" rx="4" fill="#fff"/></mask>
       <g mask="url(#langMask)">
-      <rect x="0.00" y="0" width="171.72" height="8" fill="#3572A5"/>
-      <rect x="171.72" y="0" width="82.16" height="8" fill="#4F5D95"/>
-      <rect x="253.88" y="0" width="22.67" height="8" fill="#f1e05a"/>
-      <rect x="276.55" y="0" width="10.08" height="8" fill="#563d7c"/>
-      <rect x="286.63" y="0" width="3.78" height="8" fill="#3178c6"/>
-      <rect x="290.41" y="0" width="1.92" height="8" fill="#555555"/>
-      <rect x="292.33" y="0" width="1.53" height="8" fill="#e34c26"/>
-      <rect x="293.87" y="0" width="1.23" height="8" fill="#41b883"/>
-      <rect x="295.10" y="0" width="4.90" height="8" fill="#858585"/>
+      <rect x="0.00" y="0" width="171.70" height="8" fill="#3572A5"/>
+      <rect x="171.70" y="0" width="82.14" height="8" fill="#4F5D95"/>
+      <rect x="253.85" y="0" width="22.67" height="8" fill="#f1e05a"/>
+      <rect x="276.52" y="0" width="10.08" height="8" fill="#563d7c"/>
+      <rect x="286.59" y="0" width="3.78" height="8" fill="#3178c6"/>
+      <rect x="290.37" y="0" width="1.92" height="8" fill="#555555"/>
+      <rect x="292.30" y="0" width="1.53" height="8" fill="#e34c26"/>
+      <rect x="293.83" y="0" width="1.23" height="8" fill="#41b883"/>
+      <rect x="295.06" y="0" width="4.94" height="8" fill="#858585"/>
       </g>
     </g>
     <g transform="translate(0.0, 30)">
         <circle cx="5" cy="0" r="5" fill="#3572A5"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Python 57.24%</text>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Python 57.23%</text>
       </g>
       <g transform="translate(150.0, 30)">
         <circle cx="5" cy="0" r="5" fill="#4F5D95"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">PHP 27.39%</text>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">PHP 27.38%</text>
       </g>
       <g transform="translate(0.0, 50)">
         <circle cx="5" cy="0" r="5" fill="#f1e05a"/>
@@ -66,7 +66,7 @@
       </g>
       <g transform="translate(0.0, 110)">
         <circle cx="5" cy="0" r="5" fill="#858585"/>
-        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Other 1.63%</text>
+        <text class="lang-name" x="16" y="0" dominant-baseline="middle">Other 1.65%</text>
       </g>
   </g>
 </svg>
