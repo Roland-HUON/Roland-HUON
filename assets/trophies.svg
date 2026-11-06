@@ -1,6 +1,6 @@
 <svg width="920" height="150" viewBox="0 0 920 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="cardTitle">
   <title id="cardTitle">GitHub card</title>
-  <desc>Commits: rank SSS (2462), Stars: rank C (3), Followers: rank AAA (73), Repositories: rank S (56), Pull Requests: rank AAA (35), Issues: rank B (2), Reviews: rank AA (8), Experience: rank AA (4)</desc>
+  <desc>Commits: rank SSS (2475), Stars: rank C (3), Followers: rank AAA (73), Repositories: rank S (56), Pull Requests: rank AAA (35), Issues: rank A (6), Reviews: rank AAA (12), Experience: rank AA (4)</desc>
   <style><![CDATA[
     .card-title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #70a5fd; }
     .label { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #38bdae; }
@@ -35,7 +35,7 @@
     <rect x="8" y="34" width="24" height="4" rx="1.6"/>
   </g>
         <text class="trophy-title" x="52" y="88" text-anchor="middle">Commits</text>
-        <text class="trophy-value" x="52" y="105" text-anchor="middle">2,462</text>
+        <text class="trophy-value" x="52" y="105" text-anchor="middle">2,475</text>
       </g>
     <g transform="translate(112, 0)">
         <rect x="0.5" y="0.5" width="103" height="117" rx="10"
@@ -107,11 +107,11 @@
       </g>
     <g transform="translate(560, 0)">
         <rect x="0.5" y="0.5" width="103" height="117" rx="10"
-          fill="#1a1b27" stroke="#38bdae" stroke-width="1.5" opacity="0.95"/>
+          fill="#1a1b27" stroke="#60a5fa" stroke-width="1.5" opacity="0.95"/>
         <rect x="0.5" y="0.5" width="103" height="117" rx="10"
-          fill="#38bdae" opacity="0.07"/>
-        <text class="trophy-rank" x="52" y="22" text-anchor="middle" fill="#38bdae">B</text>
-        <g transform="translate(35, 30) scale(0.8500)" fill="#38bdae">
+          fill="#60a5fa" opacity="0.07"/>
+        <text class="trophy-rank" x="52" y="22" text-anchor="middle" fill="#60a5fa">A</text>
+        <g transform="translate(35, 30) scale(0.8500)" fill="#60a5fa">
     <path d="M9 3h22v10a11 11 0 0 1-22 0z"/>
     <path d="M9 5H3.5v2.5A7.5 7.5 0 0 0 11 15v-3.2A4.6 4.6 0 0 1 7 7.4V7.2h2z" opacity="0.85"/>
     <path d="M31 5h5.5v2.5A7.5 7.5 0 0 1 29 15v-3.2a4.6 4.6 0 0 0 4-4.4V7.2h-2z" opacity="0.85"/>
@@ -120,15 +120,15 @@
     <rect x="8" y="34" width="24" height="4" rx="1.6"/>
   </g>
         <text class="trophy-title" x="52" y="88" text-anchor="middle">Issues</text>
-        <text class="trophy-value" x="52" y="105" text-anchor="middle">2</text>
+        <text class="trophy-value" x="52" y="105" text-anchor="middle">6</text>
       </g>
     <g transform="translate(672, 0)">
         <rect x="0.5" y="0.5" width="103" height="117" rx="10"
-          fill="#1a1b27" stroke="#818cf8" stroke-width="1.5" opacity="0.95"/>
+          fill="#1a1b27" stroke="#a78bfa" stroke-width="1.5" opacity="0.95"/>
         <rect x="0.5" y="0.5" width="103" height="117" rx="10"
-          fill="#818cf8" opacity="0.07"/>
-        <text class="trophy-rank" x="52" y="22" text-anchor="middle" fill="#818cf8">AA</text>
-        <g transform="translate(35, 30) scale(0.8500)" fill="#818cf8">
+          fill="#a78bfa" opacity="0.07"/>
+        <text class="trophy-rank" x="52" y="22" text-anchor="middle" fill="#a78bfa">AAA</text>
+        <g transform="translate(35, 30) scale(0.8500)" fill="#a78bfa">
     <path d="M9 3h22v10a11 11 0 0 1-22 0z"/>
     <path d="M9 5H3.5v2.5A7.5 7.5 0 0 0 11 15v-3.2A4.6 4.6 0 0 1 7 7.4V7.2h2z" opacity="0.85"/>
     <path d="M31 5h5.5v2.5A7.5 7.5 0 0 1 29 15v-3.2a4.6 4.6 0 0 0 4-4.4V7.2h-2z" opacity="0.85"/>
@@ -137,7 +137,7 @@
     <rect x="8" y="34" width="24" height="4" rx="1.6"/>
   </g>
         <text class="trophy-title" x="52" y="88" text-anchor="middle">Reviews</text>
-        <text class="trophy-value" x="52" y="105" text-anchor="middle">8</text>
+        <text class="trophy-value" x="52" y="105" text-anchor="middle">12</text>
       </g>
     <g transform="translate(784, 0)">
         <rect x="0.5" y="0.5" width="103" height="117" rx="10"
